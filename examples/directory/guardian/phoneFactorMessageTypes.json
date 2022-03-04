@@ -1,5 +1,5 @@
 {
-  "message-types": [
+  "message_types": [
     "sms",
     "voice"
   ]
